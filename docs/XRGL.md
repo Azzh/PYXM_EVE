@@ -6,11 +6,11 @@
   ### 下载游戏
 >  &emsp;&emsp;苹果可以去淘宝/京东花几块钱购买美区 apple ID， 然后在美区 AppStore 下载国际服。
    
->  安 卓 可 以 直 接 去 手 游 官 网 下 载[apk安装包](https://www.eveechoes.com)（推荐，可采用支付宝/微 信充值）。也可以下载华为应用市场（在华为应用市场里将“我的-设置-定位英国”后搜索EVE下载，然后切回中 国。**较推荐**，可采用支付宝/微信充值，还有华为打折活动，**但客户端为华为渠道版只能绑定华为账号**，无法双端登录）。还可以下载[biubiu加速器](https://m.biubiu001.com/)或[OurPlay](https://m.ourplay.net/download)，其商店有渠道版游戏下载(不推荐)。
+>  &emsp;&emsp;安 卓 可 以 直 接 去 手 游 官 网 下 载[apk安装包](https://www.eveechoes.com)（推荐，可采用支付宝/微 信充值）。</br> &emsp;&emsp;也可以下载华为应用市场（在华为应用市场里将“我的-设置-定位英国”后搜索EVE下载，然后切回中 国，**较推荐**；可采用支付宝/微信充值，还有华为打折活动，**但客户端为华为渠道版只能绑定华为账号**，无法双端登录）。</br> &emsp;&emsp;还可以下载[biubiu加速器](https://m.biubiu001.com/)或[OurPlay](https://m.ourplay.net/download)加速器，其商店里面有渠道版游戏下载(**不推荐**)。
 
 
   ### 游戏加速
->  正常下无需加速，直连延迟可以接受。应该是在+8时区有中继服务器，如果感到卡顿，可以用biubiu/OurPlay 加速器。
+>  &emsp;&emsp;正常下游戏无需加速，可以直连延迟可以接受；可能是在+8时区有中继服务器，如果感到卡顿，可以用[biubiu](https://m.biubiu001.com/)/[OurPlay](https://m.ourplay.net/download) 加速器。
 
 
   ### 电脑安卓模拟器
