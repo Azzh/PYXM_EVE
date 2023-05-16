@@ -12,7 +12,7 @@ pip install mkdocs-material
 并且可在[此处](https://squidfunk.github.io/mkdocs-material/reference/)查看其使用方法
 ### 编辑文本
 添加新的任务请按月份和任务类型分解
-```
+``` md
     # 示范
     ## 4月
     - [x] 任务1
@@ -39,7 +39,7 @@ pip install mkdocs-material
         B -->|条件1| C[结果1];
         B -->|条件2| D[结果2];
     ```
-
+``` md
     ### 策划
     - [x] 已完成任务
     - [ ] **重点任务**
@@ -69,12 +69,12 @@ pip install mkdocs-material
     :   已经鉴赏够了，快端下去罢
 
     - [ ] 任务4
-    ``` mermaid
+    
     graph LR
         A[流程1] --> B{分支节点};
         B -->|条件1| C[结果1];
         B -->|条件2| D[结果2];
-    ```
+    
 
     ### 策划
     - [x] 已完成任务
