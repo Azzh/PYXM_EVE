@@ -33,6 +33,7 @@ pip install mkdocs-material
     :   已经鉴赏够了，快端下去罢
 
     - [ ] 任务4
+    ```
     ``` mermaid
     graph LR
         A[流程1] --> B{分支节点};
@@ -48,7 +49,7 @@ pip install mkdocs-material
     ## 6月
     - [ ] ^^任务2修改^^
 ```
-!!! 示范
+  ?> 示范
     # 示范
     ## 4月
     - [x] 任务1
