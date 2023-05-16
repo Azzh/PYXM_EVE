@@ -70,12 +70,12 @@ pip install mkdocs-material
     :   已经鉴赏够了，快端下去罢
 
     - [ ] 任务4
-    
+    ```mermaid
     graph LR
         A[流程1] --> B{分支节点}
         B -->|条件1| C[结果1]
         B -->|条件2| D[结果2]
-    
+   ``` 
 
     ### 策划
     - [x] 已完成任务
